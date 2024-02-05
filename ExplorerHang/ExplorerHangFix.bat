@@ -1,2 +1,1 @@
-Windows Registry Editor Version 5.00
 Reg.exe add "HKLM\SYSTEM\CurrentControlSet\Services\fdphost" /v "Start" /t REG_DWORD /d "2" /f
